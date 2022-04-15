@@ -16,11 +16,11 @@
         "WebHookID": "964444276379500574",
         "WebHookToken": "dK1b2UIwtE95reZknaXiT92DWwBhODNsG5RebhQWzq7EdEeiLTrG9QS5EZWWI74ZRTFt"
     },
-    "ChannelGuard": "ODk3MDk5Mzg3NTY4NzgzMzYw.YWQu6Q.skka4oA3ETb7KqGgEJ6K6DvQfhc",
-    "OtherGuard": "ODk3MDk5Mzg3NTY4NzgzMzYw.YWQu6Q.skka4oA3ETb7KqGgEJ6K6DvQfhc",
-    "RoleGuard": "ODk3MTA0NDQyNTc3NTUxMzkw.YWQzng.AO-88GEwara9pm2cVORpsmJSrhc",
+    "ChannelGuard": "ODk3MDk5Mzg3NTY4NzgzMzYw.YWQu6Q.PIr9co7eHgCS6xamazQe51p1JhI",
+    "OtherGuard": "ODk3MDk5Mzg3NTY4NzgzMzYw.YWQu6Q.PIr9co7eHgCS6xamazQe51p1JhI",
+    "RoleGuard": "ODk3MTA0NDQyNTc3NTUxMzkw.YWQzng.Ox_L3ucpSCBqqW777WmjHVIjGN0",
     "Guards": [
-        "ODk3MTA0NDQyNTc3NTUxMzkw.YWQzng.AO-88GEwara9pm2cVORpsmJSrhc"
+        "ODk3MTA0NDQyNTc3NTUxMzkw.YWQzng.Ox_L3ucpSCBqqW777WmjHVIjGN0"
         
     ],
     "Limit": {

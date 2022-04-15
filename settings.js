@@ -9,8 +9,8 @@ const settings = {
     "CEZA_PUAN_KANAL": "914858511853305856",
     "CEZA_PUAN_SYSTEM": false,
 
-    "MODERASYON": "ODk3MTA0NDQyNTc3NTUxMzkw.YWQzng.AO-88GEwara9pm2cVORpsmJSrhc", // mod botu
-    "EXECUTIVE": "ODk3MDk5Mzg3NTY4NzgzMzYw.YWQu6Q.skka4oA3ETb7KqGgEJ6K6DvQfhc", // yönetim
+    "MODERASYON": "ODk3MTA0NDQyNTc3NTUxMzkw.YWQzng.Ox_L3ucpSCBqqW777WmjHVIjGN0", // mod botu
+    "EXECUTIVE": "ODk3MDk5Mzg3NTY4NzgzMzYw.YWQu6Q.PIr9co7eHgCS6xamazQe51p1JhI", // yönetim
 
     "prefix": [".","!"],
     "botSesID": "849081754211450920",
